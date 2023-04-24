@@ -1,3 +1,3 @@
 # road-extraction-datasets
-DeepGlobe road dataset
-Gansu
+- DeepGlobe road dataset
+- Gansu
